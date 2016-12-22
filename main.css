@@ -1,0 +1,14 @@
+a {
+	display: inline-block;
+	margin-top: 10px;
+	padding: 10px 40px 10px 20px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+a:hover {
+	position: relative;
+	left: 25px;
+}
+.menu {
+	margin-left:50px;
+}
